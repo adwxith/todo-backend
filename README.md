@@ -1,6 +1,3 @@
-
-
-```markdown
 # Basic Todo Backend
 
 This is a simple Todo backend built using Express.js and MySQL. It provides basic functionality for user authentication, task management, and status updates.
@@ -20,7 +17,7 @@ This is a simple Todo backend built using Express.js and MySQL. It provides basi
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
-   ```
+
 
 2. **Install Dependencies:**
 
